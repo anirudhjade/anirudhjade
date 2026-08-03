@@ -65,6 +65,14 @@ My goal is to become a **Full Stack AI Engineer** who builds innovative, high-pe
   
 </p>
 
+<hr>
+<h3 align="center">
+  Tech Stack
+</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,angular,python,django,mysql,sqlite,git,github,vscode,figma,bootstrap,postman,opencv,tensorflow,pytorch,numpy,pandas&perline=10" />
+</p>
+
 
 
 
