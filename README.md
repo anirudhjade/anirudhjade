@@ -39,9 +39,10 @@ I enjoy developing **full-stack web applications**, designing clean and responsi
 Currently, I'm expanding my skills in **Machine Learning, Deep Learning, REST APIs, SQL, and scalable backend development**, while strengthening my understanding of **Data Structures & Algorithms** and software engineering.
 
 My goal is to become a **Full Stack AI Engineer** who builds innovative, high-performance applications that combine great user experiences with intelligent solutions.
+</td>
 
+<td width="40%" align="center">
 <img src="https://github.com/anirudhjade/anirudhjade/blob/main/bg1.png" width="260"/>
-
 </td>
 </tr>
 </table>
@@ -67,8 +68,6 @@ My goal is to become a **Full Stack AI Engineer** who builds innovative, high-pe
   </a>
 </p>
 
-</td>
 
-<td width="40%" align="center">
 
 
