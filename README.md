@@ -5,7 +5,7 @@
 Hi 👋, I'm <strong>Anirudh Jade</strong>
 </h1>
 
-<hr>
+
 
 <h3 align="center">
 AI & ML Student
