@@ -26,7 +26,7 @@ Building intelligent web applications with clean architecture, modern UI design,
 </p>
 <hr>
 <p align="center">
-  🚀 About Me
+  <h3>About Me</h3> 
 </p>
 <table>
 <tr>
