@@ -24,6 +24,7 @@ Full Stack Developer
 <p align="center">
 Building intelligent web applications with clean architecture, modern UI design, scalable APIs, and AI-powered solutions.
 </p>
+
 <p align="center">
   🚀 About Me
 </p>
@@ -43,7 +44,7 @@ My goal is to become a **Full Stack AI Engineer** who builds innovative, high-pe
 
 <td width="40%" align="center">
 
-<img src="YOUR_IMAGE_LINK_HERE" width="260"/>
+<img src="https://github.com/anirudhjade/anirudhjade/blob/main/bg1.png" width="260"/>
 
 </td>
 </tr>
