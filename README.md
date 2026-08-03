@@ -1,7 +1,9 @@
 <p align="center">
   <img src="https://github.com/anirudhjade/anirudhjade/blob/main/banner.png" width="100%">
 </p> 
-## Hi there 👋
+<p align="center">
+  Hi👋, Anirudh
+</p>
 
 <!--
 **anirudhjade/anirudhjade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
