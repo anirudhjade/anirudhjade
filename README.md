@@ -40,7 +40,7 @@ Currently, I'm expanding my skills in **Machine Learning, Deep Learning, REST AP
 
 My goal is to become a **Full Stack AI Engineer** who builds innovative, high-performance applications that combine great user experiences with intelligent solutions.
 
-
+<img src="https://github.com/anirudhjade/anirudhjade/blob/main/bg1.png" width="260"/>
 
 </td>
 </tr>
@@ -71,4 +71,4 @@ My goal is to become a **Full Stack AI Engineer** who builds innovative, high-pe
 
 <td width="40%" align="center">
 
-<img src="https://github.com/anirudhjade/anirudhjade/blob/main/bg1.png" width="260"/>
+
