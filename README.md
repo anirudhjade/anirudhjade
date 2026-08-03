@@ -25,8 +25,8 @@ Full Stack Developer
 Building intelligent web applications with clean architecture, modern UI design, scalable APIs, and AI-powered solutions.
 </p>
 <hr>
-<p align="center">
-  <h3>About Me</h3> 
+<p >
+  <h3 align="center">About Me</h3> 
 </p>
 <table>
 <tr>
