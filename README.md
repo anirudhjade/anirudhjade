@@ -52,7 +52,7 @@ My goal is to become a **Full Stack AI Engineer** who builds innovative, high-pe
 
 <p align="center">
   <a href="https://github.com/anirudhjade">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=github" height="55" alt="GitHub"/>
   </a>
 
   <a href="https://www.linkedin.com/in/anirudh-jade-721b63311">
@@ -62,10 +62,7 @@ My goal is to become a **Full Stack AI Engineer** who builds innovative, high-pe
   <a href="mailto:anirudhjade@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-
-  <a href="https://x.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
+  
 </p>
 
 
