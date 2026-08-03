@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/anirudhjade/anirudhjade/blob/main/banner.png" width="100%">
+</p> 
 ## Hi there 👋
 
 <!--
